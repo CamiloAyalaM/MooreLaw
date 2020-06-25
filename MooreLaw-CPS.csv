@@ -1,4 +1,4 @@
-event,date,year
+event,raw_date,year
 Analytical Engine,1900-01-01,1900
 Hollerith Tabulator,1908-01-02,1908
 Monroe Calculator,1911-01-03,1911
